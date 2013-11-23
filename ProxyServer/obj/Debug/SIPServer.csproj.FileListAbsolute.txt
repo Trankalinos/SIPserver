@@ -1,0 +1,1 @@
+c:\users\a00801942\documents\visual studio 2012\Projects\SIPServer\SIPServer\bin\Debug\SIPServer.exe.config
